@@ -2,3 +2,8 @@ label {
     font-size: large;
     font-weight: bold;
 }
+
+#decodedUrlStringDiv {
+    width: 750px;
+    word-wrap: break-word;
+}
